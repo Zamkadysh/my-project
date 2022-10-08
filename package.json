@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Zamkadysh/my-project#readme",
   "dependencies": {
+    "bootstrap": "^5.2.2",
     "express": "^4.18.1",
     "fullcalendar": "^5.11.3"
   }
